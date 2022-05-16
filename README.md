@@ -43,7 +43,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://github.com/donQuijote404" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="blog" />
+    <img width="90" height="90" src="images/donQuijote.jpg" alt="blog" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100076419725983" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
